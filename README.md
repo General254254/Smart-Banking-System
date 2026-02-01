@@ -89,7 +89,8 @@ Implement a menu-driven interface
 
 👤 Author
 
-Mark Nambuva
+Mark Gimajeti
+
 Computer Science Student | Network & Software Engineering Enthusiast
 
 📜 License
